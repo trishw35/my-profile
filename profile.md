@@ -14,3 +14,7 @@ Learning Git at a bootcamp.
 ## Favorite Link
 
 [GitHub](https://github.com)
+
+## Bio
+
+I'm learning Git at a bootcamp. Soon I'll be unstoppable.
